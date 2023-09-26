@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.b32cbf53.css",
-    "main.js": "/portfolio-website/static/js/main.d1336949.js",
-    "static/js/415.4d6acbeb.chunk.js": "/portfolio-website/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio-website/static/js/787.1ed0c42c.chunk.js",
-    "static/media/stock-trading.png": "/portfolio-website/static/media/stock-trading.c56dac84f8ed18b8d49d.png",
-    "static/media/home-main.svg": "/portfolio-website/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/about.png": "/portfolio-website/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/backtesting.png": "/portfolio-website/static/media/backtesting.03fd9e25110fa43c0c50.png",
-    "static/media/Rayan-Ahmad-Software-Resume.pdf": "/portfolio-website/static/media/Rayan-Ahmad-Software-Resume.557b2547b6c7dc351594.pdf",
-    "static/media/pre.svg": "/portfolio-website/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/portfolio-website/index.html",
-    "main.b32cbf53.css.map": "/portfolio-website/static/css/main.b32cbf53.css.map",
-    "main.d1336949.js.map": "/portfolio-website/static/js/main.d1336949.js.map",
-    "415.4d6acbeb.chunk.js.map": "/portfolio-website/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio-website/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.1f172878.css",
+    "main.js": "/static/js/main.a6fe1657.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/stock-trading.png": "/static/media/stock-trading.c56dac84f8ed18b8d49d.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/backtesting.png": "/static/media/backtesting.03fd9e25110fa43c0c50.png",
+    "static/media/Rayan-Ahmad-Software-Resume.pdf": "/static/media/Rayan-Ahmad-Software-Resume.557b2547b6c7dc351594.pdf",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.1f172878.css.map": "/static/css/main.1f172878.css.map",
+    "main.a6fe1657.js.map": "/static/js/main.a6fe1657.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b32cbf53.css",
-    "static/js/main.d1336949.js"
+    "static/css/main.1f172878.css",
+    "static/js/main.a6fe1657.js"
   ]
 }
