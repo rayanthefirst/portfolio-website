@@ -1,8 +1,8 @@
 {
+  "homepage": "https://rayanthefirst.github.io",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rayanthefirst.github.io/rayanthefirst.github.io",
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
     "@testing-library/jest-dom": "^5.16.2",
