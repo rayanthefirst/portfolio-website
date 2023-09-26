@@ -2,8 +2,10 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import homeLogo from "../../Assets/home-main.svg";
 import Particle from "../Particle";
-import Home2 from "./Home2";
+import Featured from "./Featured";
 import Type from "./Type";
+
+import Projects from "../Projects/Projects";
 
 function Home() {
   return (
@@ -39,9 +41,10 @@ function Home() {
               />
             </Col>
           </Row>
+          <Featured/>
         </Container>
       </Container>
-      <Home2 />
+
     </section>
   );
 }

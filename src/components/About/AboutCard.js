@@ -13,17 +13,17 @@ function AboutCard() {
             <br />I am a Mechatronics Engineering student at the University of Waterloo.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Some of the things I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Skateboard 🛹
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writting Tech Blogs
+              <ImPointRight /> Piano 🎹
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Travel ✈️
             </li>
           </ul>
         </blockquote>
